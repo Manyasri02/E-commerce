@@ -1,0 +1,43 @@
+[
+  {
+    "id": "1",
+    "name": "Classic White Tee",
+    "price": 19.99,
+    "images": ["/assets/white-tee.jpg"],
+    "colors": ["white"],
+    "sizes": ["S","M","L","XL"],
+    "description": "A comfortable classic white t-shirt made from soft cotton.",
+    "stock": 50
+  },
+  {
+    "id": "2",
+    "name": "Blue Denim Jacket",
+    "price": 69.99,
+    "images": ["/assets/denim-jacket.jpg"],
+    "badge": "Trending",
+    "colors": ["blue"],
+    "sizes": ["S","M","L","XL"],
+    "description": "Stylish denim jacket with a relaxed fit.",
+    "stock": 20
+  },
+  {
+    "id": "3",
+    "name": "Black Joggers",
+    "price": 39.99,
+    "images": ["/assets/black-joggers.jpg"],
+    "colors": ["black"],
+    "sizes": ["S","M","L","XL"],
+    "description": "Comfortable joggers for everyday wear.",
+    "stock": 35
+  },
+  {
+    "id": "4",
+    "name": "Striped Summer Dress",
+    "price": 49.99,
+    "images": ["/assets/striped-dress.jpg"],
+    "colors": ["red","white"],
+    "sizes": ["S","M","L"],
+    "description": "Lightweight striped dress perfect for warm weather.",
+    "stock": 15
+  }
+]
